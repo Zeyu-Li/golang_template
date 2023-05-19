@@ -19,7 +19,7 @@ import (
 
 
 func main() {
-	// chose any number
+	// choose any number
 	number := 1
 
 	fmt.Println(number)
